@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Liam Darmody",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "A test website built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "siteUrl": "https://liamdarmody.com",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@LiamDarmody"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
