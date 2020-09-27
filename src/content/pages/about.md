@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Liam
+title: About
 ---
 Hi, I’m Liam. I’m passionate about technology and how it can be used to make people’s lives better.
 
