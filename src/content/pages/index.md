@@ -9,6 +9,6 @@ cta:
   ctaText: Get in touch
   ctaLink: /contact
 ---
-I lead the product team at [VMware Pivotal Labs](https://tanzu.vmware.com/labs) in London and I volunteer my time as a Board Member of [Product Management Festival Europe](https://productmanagementfestival.com/zurich/).
+I lead the product team at [VMware Pivotal Labs](https://tanzu.vmware.com/labs) in London and I volunteer as a Board Member of [Product Management Festival Europe](https://productmanagementfestival.com/zurich/).
 
 Want to chat?
