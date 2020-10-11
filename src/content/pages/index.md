@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Hi 👋
+title: Hi, I'm Liam 👋
 tagline: I'm on a mission to unlock human potential in the people I work with &
   through the experiences we create.
 featuredImage: /assets/liam-darmody-pmf2018.jpg
