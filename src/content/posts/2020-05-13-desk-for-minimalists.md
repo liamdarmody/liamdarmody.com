@@ -2,7 +2,7 @@
 template: blog-post
 title: Desk for minimalists
 slug: minimalists-desk
-date: 2020-05-13 12:46
+date: 2021-01-01 15:31
 description: sdasd
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
