@@ -3,26 +3,8 @@ template: about-page
 slug: /about
 title: About
 ---
-Hi, I’m Liam. I’m passionate about technology and how it can be used to make people’s lives better.
+I'm on a mission to unlock human potential in the people I work with & through the experiences we create.
 
-I enjoy working at the intersection of business and technology to build products that people love to use. I like to wear many hats, but I have a particular love for product design, development and marketing.
+I lead the product team at [VMware Pivotal Labs](https://tanzu.vmware.com/labs){:target="_blank"} in London and I volunteer as a Board Member of [Product Management Festival](https://productmanagementfestival.com/zurich/){:target="_blank"}. I'm a coach, mentor and runner with a keen interest to learn new things.
 
-## What I Love
-
-I love good clean design that is functional and customer centric.
-
-I love discovering new music. Spotify is a fantastic tool for that.
-
-I love big adventures. Hiking, traveling, backpacking, camping, etc.
-
-I love hanging out with people who are passionate about something.
-
-I love flavoursome food, especially the diverse selection that is available in London and Sydney.
-
-## What I Do
-
-I lead the Product Management team at VMware Pivotal Labs in London. We are agile to the core and lean in practice. Using techniques like pair programming, test-driven development, user-centered design and lean startup experimentation, we teach companies how to build world-class software.
-
-## What I've Done
-
-I’ve co-founded a few (failed) startups – FitUsIn, DataMunch and RippleCrowd. I’ve had the privilege of working with great companies and startups such as PwC, Podio and Freelancer.com. I was also the founding licensee for TEDxMacquarieUniversity.
+I’ve co-founded a few (failed) startups – [FitUsIn](https://www.smh.com.au/business/small-business/casual-gym-visit-app-an-australian-first-20130804-2r7h1.html){:target="_blank"}, [DataMunch](https://gust.com/companies/datamunch){:target="_blank"} and RippleCrowd. I’ve had the privilege of working with great companies and startups such as [PwC](https://www.pwc.com.au/){:target="_blank"}, [Podio](https://podio.com/){:target="_blank"} and [Freelancer.com](https://www.freelancer.com/){:target="_blank"}. I was also the founding licensee for [TEDxMacquarieUniversity](https://www.tedxmacquarieuni.com/){:target="_blank"}.
