@@ -1,9 +1,11 @@
 ---
 template: blog-post
-slug: markdown
-date: 2020-05-09T05:53:16.102Z
 title: "Markdown: Syntax"
-featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
+slug: markdown
+date: 2020-11-23 15:44
+description: New to markdown? This is a brief guide to help you learn markdown
+  syntax. Learn the basics so you can start publishing content in markdown.
+featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
 ---
 
 ## Overview
