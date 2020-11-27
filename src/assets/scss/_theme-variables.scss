@@ -10,17 +10,19 @@ $breakpoint-xl: 1200px;
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
   
-  --primary-color: #274472;
-  --header-bg: #274472;
+  --primary-color: #145FE6;
+  --header-bg: #FFFFFF;
 
-  --home-link-color: #5885AF;
+  --dropdown-bg: #1D1D1F;
+  --dropdown-hover-bg: #333335;
+
+  --home-link-color: #1255CF;
   --home-link-hover-color:  var(--primary-color);
 
-  --button-color: #C0DCEC;
-  --button-alternate-color: #274472;
+  --button-color: #FAFBFC;
+  --button-alternate-color: #1255CF;
 
   --post-link-color: #0F070B;
-
 
   --nav-link-hover-bg: #111;
   --text-color-meta: rgba(0,0,0,0.5);
