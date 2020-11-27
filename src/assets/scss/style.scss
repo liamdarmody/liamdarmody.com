@@ -172,7 +172,7 @@
 		border: 1px solid rgba(0,0,0,0.12);
 		box-shadow: 0 30px 60px rgba(0,0,0,0.1);
 		.title {
-			color: var(--button-alternate-color);
+			color: var(--primary-color);
 		}
 	}
 	.meta {
@@ -259,8 +259,8 @@ article img {
 	display: inline-flex;
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
-	background-color: var( --button-alternate-color);
-	color: var(--button-color);
+	background-color: var( --button-primary-bg);
+	color: var(--button-link-color);
 	border-radius: 12px;
 	text-decoration: none;
 	appearance: none;
@@ -269,8 +269,8 @@ article img {
 	line-height: 1;
 	transition: background .3s linear;
 	&:hover {
-		background-color: var(--button-color);
-		color: var( --button-alternate-color);
+		background-color: var(--button-secondary-bg);
+		color: var( --button-link-color);
 	}
 	&.-outline {
 		color: var(--primary-color);
