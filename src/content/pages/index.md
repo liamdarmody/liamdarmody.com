@@ -9,6 +9,6 @@ cta:
   ctaText: Get in touch
   ctaLink: /contact
 ---
-I lead the product team at <a href="https://tanzu.vmware.com/labs" target="_blank">VMware Pivotal Labs</a> in London and I am on the board of <a href="https://productmanagementfestival.com/zurich/" target="_blank">Product Management Festival Europe</a>. I'm also a speaker, facilitator, coach, investor and runner.
+I lead the EMEA team of product managers at <a href="https://tanzu.vmware.com/labs" target="_blank">VMware Tanzu Labs</a> (formerly Pivotal Labs) and I am on the board of <a href="https://productmanagementfestival.com/zurich/" target="_blank">Product Management Festival Europe</a>. I'm also a speaker, facilitator, coach, investor and runner.
 
 Want to chat?
